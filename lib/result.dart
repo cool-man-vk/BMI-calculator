@@ -10,7 +10,7 @@ class Result extends StatelessWidget {
     
     String _findCategory(){
       String value = '';
-      if(double.parse(resultValue) >= 1 && double.parse(resultValue) <= 16.5)
+      if(double.parse(resultValue) >= 1 && double.parse(resultValue) <= 18.5)
       {
           return value = "Thin";
       }
