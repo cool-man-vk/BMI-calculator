@@ -1,6 +1,10 @@
 # bmi_calculator
 
-In this app , Body Mass Index is calculated and then it describes whether a person is thin, normal , fat , obese.
+In this app , Body Mass Index according to a person's height and weight ,is calculated and then it describes whether a person is thin, normal , fat , obese.
+Thin -> BMI value is from 1 to 18.5
+Normal -> 18.5 to 25 
+Overweight -> 25 to 30
+Obese -> Greater than or equal to 30
 
 ## Getting Started
 
